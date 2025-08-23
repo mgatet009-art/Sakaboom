@@ -1,1 +1,623 @@
+proxies:
+  - name: "SOCKS5-1"
+    type: socks5
+    server: 45.125.220.114
+    port: 1088
+    username: test
+    password: test
 
+  - name: "SOCKS5-2"
+    type: socks5
+    server: 45.125.220.223
+    port: 1052
+    username: test
+    password: test
+
+  - name: "SOCKS5-3"
+    type: socks5
+    server: 45.125.223.105
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-4"
+    type: socks5
+    server: 45.249.102.102
+    port: 1080
+    username: test
+    password: test
+
+  - name: "SOCKS5-5"
+    type: socks5
+    server: 103.48.161.132
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-6"
+    type: socks5
+    server: 103.106.236.156
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-7"
+    type: socks5
+    server: 103.112.53.37
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-8"
+    type: socks5
+    server: 103.112.53.106
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-9"
+    type: socks5
+    server: 103.112.54.130
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-10"
+    type: socks5
+    server: 103.122.142.210
+    port: 1080
+    username: test
+    password: test
+
+  - name: "SOCKS5-11"
+    type: socks5
+    server: 103.218.24.234
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-12"
+    type: socks5
+    server: 160.22.21.161
+    port: 1080
+    username: test
+    password: test
+
+  - name: "SOCKS5-13"
+    type: socks5
+    server: 45.125.220.223
+    port: 1052
+    username: ras
+    password: ras
+
+  - name: "SOCKS5-14"
+    type: socks5
+    server: 103.218.27.66
+    port: 1052
+    username: ras
+    password: ras
+
+  - name: "SOCKS5-15"
+    type: socks5
+    server: 103.218.27.67
+    port: 1052
+    username: ras
+    password: ras
+
+  - name: "SOCKS5-16"
+    type: socks5
+    server: 45.249.102.93
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-17"
+    type: socks5
+    server: 103.101.197.73
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-18"
+    type: socks5
+    server: 103.106.236.226
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-19"
+    type: socks5
+    server: 103.112.52.187
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-20"
+    type: socks5
+    server: 103.112.54.13
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-21"
+    type: socks5
+    server: 103.120.202.73
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-22"
+    type: socks5
+    server: 103.120.203.188
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-23"
+    type: socks5
+    server: 103.120.203.190
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-24"
+    type: socks5
+    server: 103.147.162.104
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-25"
+    type: socks5
+    server: 103.218.24.237
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-26"
+    type: socks5
+    server: 103.231.239.126
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-27"
+    type: socks5
+    server: 160.22.21.220
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-28"
+    type: socks5
+    server: 103.48.161.145
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-29"
+    type: socks5
+    server: 103.72.60.143
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-30"
+    type: socks5
+    server: 103.72.60.182
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-31"
+    type: socks5
+    server: 103.72.60.220
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-32"
+    type: socks5
+    server: 103.72.61.42
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-33"
+    type: socks5
+    server: 103.72.61.44
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-34"
+    type: socks5
+    server: 103.72.61.57
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-35"
+    type: socks5
+    server: 103.101.197.128
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-36"
+    type: socks5
+    server: 103.101.199.255
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-37"
+    type: socks5
+    server: 103.106.238.22
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-38"
+    type: socks5
+    server: 103.106.239.1
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-39"
+    type: socks5
+    server: 103.106.239.40
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-40"
+    type: socks5
+    server: 103.106.239.169
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-41"
+    type: socks5
+    server: 103.106.239.173
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-42"
+    type: socks5
+    server: 103.106.239.218
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-43"
+    type: socks5
+    server: 103.112.52.139
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-44"
+    type: socks5
+    server: 103.112.52.180
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-45"
+    type: socks5
+    server: 103.112.52.181
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-46"
+    type: socks5
+    server: 103.112.52.214
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-47"
+    type: socks5
+    server: 103.112.53.118
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-48"
+    type: socks5
+    server: 103.112.53.160
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-49"
+    type: socks5
+    server: 103.120.203.67
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-50"
+    type: socks5
+    server: 103.122.142.17
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-51"
+    type: socks5
+    server: 103.122.142.122
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-52"
+    type: socks5
+    server: 103.122.142.130
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-53"
+    type: socks5
+    server: 103.122.142.131
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-54"
+    type: socks5
+    server: 103.147.162.69
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-55"
+    type: socks5
+    server: 103.147.162.99
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-56"
+    type: socks5
+    server: 103.147.162.151
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-57"
+    type: socks5
+    server: 103.147.162.153
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-58"
+    type: socks5
+    server: 103.147.162.164
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-59"
+    type: socks5
+    server: 103.147.162.179
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-60"
+    type: socks5
+    server: 103.147.162.182
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-61"
+    type: socks5
+    server: 103.147.162.183
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-62"
+    type: socks5
+    server: 103.147.163.0
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-63"
+    type: socks5
+    server: 103.147.163.98
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-64"
+    type: socks5
+    server: 103.159.128.220
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-65"
+    type: socks5
+    server: 103.159.129.21
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-66"
+    type: socks5
+    server: 103.159.129.77
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-67"
+    type: socks5
+    server: 103.205.37.86
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-68"
+    type: socks5
+    server: 103.218.27.226
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-69"
+    type: socks5
+    server: 103.231.238.214
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-70"
+    type: socks5
+    server: 103.239.252.82
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-71"
+    type: socks5
+    server: 103.239.252.120
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-72"
+    type: socks5
+    server: 103.239.253.51
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-73"
+    type: socks5
+    server: 103.239.254.252
+    port: 10888
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-74"
+    type: socks5
+    server: 114.129.15.131
+    port: 19568
+    username: "123"
+    password: "321"
+
+  - name: "SOCKS5-75"
+    type: socks5
+    server: 118.179.158.241
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-76"
+    type: socks5
+    server: 118.179.202.238
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-77"
+    type: socks5
+    server: 118.179.214.106
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-78"
+    type: socks5
+    server: 118.179.214.107
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-79"
+    type: socks5
+    server: 202.4.105.122
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-80"
+    type: socks5
+    server: 202.4.124.42
+    port: 1088
+    username: test
+    password: test
+
+  - name: "SOCKS5-81"
+    type: socks5
+    server: 118.179.101.102
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-82"
+    type: socks5
+    server: 118.179.135.120
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-83"
+    type: socks5
+    server: 118.179.200.244
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-84"
+    type: socks5
+    server: 202.4.101.64
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-85"
+    type: socks5
+    server: 202.4.105.96
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-86"
+    type: socks5
+    server: 202.4.105.244
+    port: 1088
+    username: test
+    password: test123
+
+  - name: "SOCKS5-87"
+    type: socks5
+    server: 202.4.117.208
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-88"
+    type: socks5
+    server: 202.4.122.209
+    port: 10888
+    username: test
+    password: test123
+
+  - name: "SOCKS5-89"
+    type: socks5
+    server: 118.179.157.219
+    port: 1052
+    username: ras
+    password: ras
