@@ -367,8 +367,8 @@ proxies:
     type: socks5
     server: 103.186.238.1
     port: 9169
-    username: true
-    password: true
+    username: "true"
+    password: "true"
 
   - name: "🟢 Server 54"
     type: http
