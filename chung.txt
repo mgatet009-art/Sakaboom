@@ -1643,4 +1643,70 @@ proxies:
   username: "test"
   password: "test"
   name: 🌬️ Cats 278
+- type: "socks5"
+  server: "103.129.200.46"
+  port: "1052"
+  username: "ras"
+  password: "ras"
+  name: 🌬️ Cats 279
+- type: "socks5"
+  server: "103.129.200.161"
+  port: "1052"
+  username: "ras"
+  password: "ras"
+  name: 🌬️ Cats 280
+- type: "socks5"
+  server: "103.129.200.176"
+  port: "1052"
+  username: "ras"
+  password: "ras"
+  name: 🌬️ Cats 281
+- type: "socks5"
+  server: "103.129.203.73"
+  port: "1052"
+  username: "ras"
+  password: "ras"
+  name: 🌬️ Cats 282
+- type: "socks5"
+  server: "103.129.200.102"
+  port: "1088"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 283
+- type: "socks5"
+  server: "103.129.200.106"
+  port: "1080"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 284
+- type: "socks5"
+  server: "103.129.200.173"
+  port: "1088"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 285
+- type: "socks5"
+  server: "103.197.48.44"
+  port: "1088"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 286
+- type: "socks5"
+  server: "103.197.48.126"
+  port: "1088"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 287
+- type: "socks5"
+  server: "103.197.48.154"
+  port: "1088"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 288
+- type: "socks5"
+  server: "103.197.48.198"
+  port: "1088"
+  username: "test"
+  password: "test"
+  name: 🌬️ Cats 289
 
