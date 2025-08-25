@@ -645,13 +645,13 @@ proxies:
   server: "119.40.89.138"
   port: "9090"
   username: "1"
-  password: "11"
+  password: "1"
   name: 🌬️ Cats 112
 - type: "socks5"
   server: "119.40.89.138"
   port: "9090"
   username: "2"
-  password: "21"
+  password: "2"
   name: 🌬️ Cats 113
 - type: "socks5"
   server: "119.40.93.154"
@@ -663,13 +663,13 @@ proxies:
   server: "119.40.93.154"
   port: "9090"
   username: "1"
-  password: "11"
+  password: "1"
   name: 🌬️ Cats 115
 - type: "socks5"
   server: "119.40.93.154"
   port: "9090"
   username: "2"
-  password: "22"
+  password: "2"
   name: 🌬️ Cats 116
 - type: "socks5"
   server: "210.4.66.62"
