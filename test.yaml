@@ -1,0 +1,36 @@
+proxy-providers:
+  ECats:
+    type: http
+    url: "https://tinyurl.com/ExperimentCats"
+    interval: 300
+    path: ./Cats.yaml
+    health-check:
+      enable: true
+      interval: 300
+
+proxy-groups:
+  - name: "NextGen"
+    type: select
+    proxies:
+      - LoadBalance
+      - Select
+      
+  - name: "LoadBalance"
+    type: load-balance
+    hidden: true
+    use:
+      - ECats
+    url: "http://1.1.1.1"
+    interval: 3
+    strategy: round-robin
+    
+  - name: "Select"
+    type: load-balance
+    strategy: round-robin
+    use:
+      - ECats
+    url: "http://new.circleftp.net"
+    interval: 3
+
+rules:
+  - MATCH,NextGen
