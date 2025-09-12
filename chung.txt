@@ -1,30 +1,60 @@
 proxies:
-  - name: "🌬️ Cats 1"
-    type: http
-    server: 202.136.89.228
-    port: 8080
-
-  - name: "🌬️ Cats 2"
-    type: http
-    server: 103.243.238.187
+  - name: "🅑🅓 ➋⓿"
+    type: socks5
+    server: 45.115.113.90
     port: 11011
-
-  - name: "🌬️ Cats 3"
-    type: http
-    server: 160.25.8.17
+    
+  - name: "🅑🅓 ➋➊"
+    type: socks5
+    server: 45.115.112.178
     port: 11011
-
-  - name: "🌬️ Cats 4"
-    type: http
-    server: 103.243.238.241
-    port: 11911
-
-  - name: "🌬️ Cats 5"
-    type: http
-    server: 103.243.238.213
-    port: 8080
-
-  - name: "🌬️ Cats 6"
-    type: http
-    server: 202.136.88.85
-    port: 8080
+    
+  - name: "🅑🅓 ➋➋"
+    type: socks5
+    server: 45.115.113.130
+    port: 11011
+    
+  - name: "🅑🅓 ➋➌"
+    type: socks5
+    server: 45.115.112.154
+    port: 11011
+    
+  - name: "🅑🅓 ➋➍"
+    type: socks5
+    server: 45.115.112.193
+    port: 11011
+    
+  - name: "🅑🅓 ➋➎"
+    type: socks5
+    server: 45.115.112.244
+    port: 11808
+    username: noo
+    password: o
+    
+  - name: "🅑🅓 ➋➏"
+    type: socks5
+    server: 45.115.113.217
+    port: 9090
+    username: MX
+    password: XM
+    
+  - name: "🅑🅓 ➋➐"
+    type: socks5
+    server: 45.115.113.105
+    port: 9006
+    username: demo
+    password: demo
+    
+  - name: "🅑🅓 ➋➑"
+    type: socks5
+    server: 45.115.112.242
+    port: 11808
+    username: noo
+    password: o
+    
+  - name: "🅑🅓 ➋➒"
+    type: socks5
+    server: 45.115.112.158
+    port: 6006
+    username: noo
+    password: o
