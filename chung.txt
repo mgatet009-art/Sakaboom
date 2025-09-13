@@ -58,7 +58,7 @@ proxies:
     port: 6006
     username: noo
     password: o
-  - name: "➌⓿"
+  - name: "🅑🅓 ➌⓿"
     type: socks5
     server: 36.50.11.198
     port: 11311
