@@ -25,21 +25,6 @@ proxies:
     port: 11011
     
   - name: "🅑🅓 ➋➎"
-    tyoe: socks5
-    server: 1.1.1.1
-    port: 11011
-    
-  - name: "🅑🅓 ➋➌"
-    type: socks5
-    server: 1.1.1.1
-    port: 11011
-    
-  - name: "🅑🅓 ➋➍"
-    type: socks5
-    server: 1.1.1.1
-    port: 11011
-    
-  - name: "🅑🅓 ➋➎"
     type: socks5
     server: 1.1.1.1
     port: 11011
