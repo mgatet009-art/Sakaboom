@@ -21,7 +21,7 @@ proxies:
     
   - name: "🅑🅓 ➋➍"
     type: socks5
-    server: 45.115.112.193
+    server: 45.115.112.154
     port: 11011
     
   - name: "🅑🅓 ➋➎"
