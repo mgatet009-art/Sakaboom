@@ -3,26 +3,36 @@ proxies:
     type: socks5
     server: 45.115.113.90
     port: 11011
-    
+    username: NextG
+    password: NextG
+
   - name: "🅑🅓 ➋➊"
     type: socks5
     server: 45.115.112.178
     port: 11011
+    username: NextG
+    password: NextG
     
   - name: "🅑🅓 ➋➋"
     type: socks5
     server: 45.115.113.130
     port: 11011
+    username: NextG
+    password: NextG
     
   - name: "🅑🅓 ➋➌"
     type: socks5
     server: 45.115.112.154
     port: 11011
+    username: NextG
+    password: NextG
     
   - name: "🅑🅓 ➋➍"
     type: socks5
     server: 45.115.112.154
     port: 11011
+    username: NextG
+    password: NextG
     
   - name: "🅑🅓 ➋➎"
     type: socks5
