@@ -68,6 +68,7 @@ proxies:
     port: 6006
     username: noo
     password: o
+
   - name: "NextG-1"
     type: socks5
     server: 103.59.39.12
@@ -81,7 +82,6 @@ proxies:
     port: 11011
     username: NextG
     password: NextG
-    
 
   - name: "NextG-3"
     type: socks5
@@ -89,7 +89,6 @@ proxies:
     port: 11011
     username: NextG
     password: NextG
-    
 
   - name: "NextG-4"
     type: socks5
@@ -97,7 +96,6 @@ proxies:
     port: 11011
     username: NextG
     password: NextG
-    
 
   - name: "NextG-5"
     type: socks5
@@ -105,7 +103,6 @@ proxies:
     port: 11011
     username: NextG
     password: NextG
-    
 
   - name: "NextG-6"
     type: socks5
@@ -113,7 +110,6 @@ proxies:
     port: 11311
     username: NextG
     password: NextG
-    
 
   - name: "NextG-7"
     type: socks5
